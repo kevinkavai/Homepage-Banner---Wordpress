@@ -1,0 +1,1 @@
+<?php //You know what, Silence is golden. 

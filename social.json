@@ -1,0 +1,24 @@
+{
+    "links": [
+        {
+            "key": "Facebook",
+            "link": "https://web.facebook.com/elgeyomarakwetcounty/",
+            "icon": "icon icon-facebook"
+        },
+        {
+            "key": "Twitter",
+            "link": "https://twitter.com/ElgeyoMarakwetC",
+            "icon": "icon icon-twitter"
+        },
+        {
+            "key": "Instagram",
+            "link": "https://www.instagram.com/elgeyomarakwetcounty/",
+            "icon": "icon icon-instagram"
+        },
+        {
+            "key": "Youtube",
+            "link": "https://www.youtube.com/channel/UCPxuWTEok8lV4yo_uB3Htsw",
+            "icon": "icon icon-youtube"
+        }
+    ]
+}
